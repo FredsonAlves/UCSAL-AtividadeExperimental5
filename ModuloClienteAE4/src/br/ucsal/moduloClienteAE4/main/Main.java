@@ -16,7 +16,7 @@ public class Main {
 
 	public static void main(String[] args) throws UnknownHostException,
 	IOException {
-// dispara cliente
+
 // new LabClienteManager("127.0.0.1", 12345).executa();
 	LeitorXML lt;
 	String enderecoConfigurado=null;
